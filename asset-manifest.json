@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tajerhub_header_footer/static/css/main.dd42c7dc.css",
+    "main.js": "/tajerhub_header_footer/static/js/main.b8b605c7.js",
+    "static/media/Icon1.svg": "/tajerhub_header_footer/static/media/Icon1.b1fe10b6053605433633cf9c8c864362.svg",
+    "static/media/app_store.svg": "/tajerhub_header_footer/static/media/app_store.a571d52c6b2b4fe17babfc36498ee597.svg",
+    "static/media/play_store.svg": "/tajerhub_header_footer/static/media/play_store.cd6e5eaec8f660da4e541bd465173d0f.svg",
+    "static/media/Bidingicon.svg": "/tajerhub_header_footer/static/media/Bidingicon.79440a3c9b0922576432bc1ceea4edf7.svg",
+    "index.html": "/tajerhub_header_footer/index.html",
+    "static/media/Searchicon.svg": "/tajerhub_header_footer/static/media/Searchicon.62c637554db19626668c95e52dd3b8c3.svg",
+    "main.dd42c7dc.css.map": "/tajerhub_header_footer/static/css/main.dd42c7dc.css.map",
+    "main.b8b605c7.js.map": "/tajerhub_header_footer/static/js/main.b8b605c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd42c7dc.css",
+    "static/js/main.b8b605c7.js"
+  ]
+}
