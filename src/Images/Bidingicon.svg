@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="134" height="90" viewBox="0 0 134 90">
+  <defs>
+    <filter id="serach_bg" x="0" y="0" width="134" height="90" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="serach_bg-2" x="3" y="3" width="128" height="84" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_101833" data-name="Group 101833" transform="translate(-1002 -138)">
+    <g transform="matrix(1, 0, 0, 1, 1002, 138)" filter="url(#serach_bg)">
+      <rect id="serach_bg-3" data-name="serach_bg" width="104" height="60" rx="14" transform="translate(15 15)" fill="#055f8f"/>
+    </g>
+    <g id="Search_bar" data-name="Search bar" transform="translate(967 167)">
+      <g id="serach">
+        <g transform="matrix(1, 0, 0, 1, 35, -29)" filter="url(#serach_bg-2)">
+          <rect id="serach_bg-4" data-name="serach_bg" width="98" height="54" rx="11" transform="translate(18 18)" fill="#fff"/>
+        </g>
+        <text id="BIDDING" transform="translate(137 23)" fill="#055f8f" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-70.066" y="0">BIDDING</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
